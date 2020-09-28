@@ -26,6 +26,7 @@ form{
     background-color: #ffdccc;
     width: 450px;
     height: 400px;
+    border: 1px solid red;
    
 }
 

@@ -59,6 +59,7 @@ form{
     background-color:  #ffdccc;
     width: 450px;
     height: 500px;
+    border: 1px solid red;
 }
 
 #back{
